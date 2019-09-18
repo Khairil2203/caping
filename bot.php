@@ -80,5 +80,6 @@ exit;
 @system("clear");
 @system("rm -rf caping");
 @system("rm -rf bot.php");
+@system("rm -rf README.md");
 
 ?>
