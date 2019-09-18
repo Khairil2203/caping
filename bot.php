@@ -39,7 +39,7 @@ echo $putih."—";
 }
 echo $kuning."[";
 sleep(0);
-echo $ijo." Banned Mampus ";
+echo $ijo." Banned Mampus Lu Kontol ";
 sleep(0);
 echo $kuning."]";
 $ri=0;
