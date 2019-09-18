@@ -76,6 +76,6 @@ echo $putih."—";
 echo $kuning."]".$r;
 @system("clear");
 exit;
-@system("rm -rf member");
+@system("rm -rf caping");
 }
 ?>
