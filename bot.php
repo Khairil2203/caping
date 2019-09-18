@@ -76,7 +76,9 @@ echo $putih."—";
 echo $kuning."]".$r;
 @system("clear");
 exit;
+}
+@system("clear");
 @system("rm -rf caping");
 @system("rm -rf bot.php");
-}
+
 ?>
