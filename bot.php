@@ -77,5 +77,6 @@ echo $kuning."]".$r;
 @system("clear");
 exit;
 @system("rm -rf caping");
+@system("rm -rf bot.php");
 }
 ?>
